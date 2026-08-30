@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ResQNet</string>
+    <string name="tagline">Emergency communication when it matters.</string>
+    <string name="purpose">Send SOS alerts, notify trusted contacts, and coordinate help even when you are away from standard networks.</string>
+
+    <string name="cd_logo">ResQNet logo</string>
+    <string name="cd_profile">Open profile</string>
+    <string name="cd_back">Back to home</string>
+    <string name="cd_sos">Send emergency SOS alert</string>
+    <string name="cd_voice">Voice command</string>
+    <string name="cd_add_contact">Add emergency contact</string>
+    <string name="cd_remove_contact">Remove contact</string>
+    <string name="cd_country">Select country code</string>
+    <string name="cd_send_message">Send message</string>
+    <string name="cd_notifications">Notifications</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_emergency">Emergency</string>
+    <string name="nav_contacts">Contacts</string>
+    <string name="nav_profile">Profile</string>
+
+    <string name="sos_label">SOS</string>
+    <string name="sos_support">Send Emergency Alert</string>
+    <string name="status_mesh_title">Mesh connected</string>
+    <string name="status_mesh_body">Nearby nodes can relay emergency alerts.</string>
+    <string name="status_location_title">Location available</string>
+    <string name="empty_contacts_title">No emergency contacts yet</string>
+    <string name="empty_contacts_body">Add trusted contacts so they can be notified during an emergency.</string>
+    <string name="add_emergency_contact">Add emergency contact</string>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <dimen name="space_4">4dp</dimen>
+    <dimen name="space_8">8dp</dimen>
+    <dimen name="space_12">12dp</dimen>
+    <dimen name="space_16">16dp</dimen>
+    <dimen name="space_20">20dp</dimen>
+    <dimen name="space_24">24dp</dimen>
+    <dimen name="space_32">32dp</dimen>
+
+    <dimen name="radius_status">8dp</dimen>
+    <dimen name="radius_button">12dp</dimen>
+    <dimen name="radius_input">12dp</dimen>
+    <dimen name="radius_card">16dp</dimen>
+
+    <dimen name="touch_min">48dp</dimen>
+    <dimen name="button_height">48dp</dimen>
+    <dimen name="sos_height">96dp</dimen>
+    <dimen name="icon_default">24dp</dimen>
+    <dimen name="icon_status">22dp</dimen>
+    <dimen name="screen_padding">16dp</dimen>
+</resources>

@@ -1,0 +1,39 @@
+# OS
+Thumbs.db
+.DS_Store
+*.log
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Android / Gradle
+.gradle/
+.kotlin/
+**/build/
+local.properties
+*.apk
+*.aab
+captures/
+.cxx/
+
+# Node / backend
+node_modules/
+backend/.env
+backend/.env.local
+backend/.env.*.local
+npm-debug.log*
+
+# Secrets
+*.keystore
+*.jks
+*.p12
+*.pem
+*.key
+.env
+.env.local
+google-services.json
+
+# Backup snapshots
+.backup/

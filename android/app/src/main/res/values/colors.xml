@@ -1,0 +1,32 @@
+<resources>
+    <color name="primary">#0B2438</color>
+    <color name="primary_container">#123F5D</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_primary_muted">#B8C9D6</color>
+    <color name="background">#F4F6F8</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#E8EEF2</color>
+    <color name="text_primary">#172B3A</color>
+    <color name="text_secondary">#5A6B78</color>
+    <color name="outline">#D5DEE5</color>
+    <color name="success">#168A50</color>
+    <color name="success_container">#E7F4EC</color>
+    <color name="warning">#D97706</color>
+    <color name="warning_container">#FBF0E0</color>
+    <color name="error">#C62828</color>
+    <color name="error_container">#FDECEC</color>
+    <color name="emergency">#D32F2F</color>
+    <color name="emergency_container">#FDECEC</color>
+    <color name="on_emergency">#FFFFFF</color>
+    <color name="nav_indicator">#D9E4EC</color>
+
+    <!-- Legacy aliases used by the original theme -->
+    <color name="navy">#0B2438</color>
+    <color name="navy2">#123F5D</color>
+    <color name="red">#D32F2F</color>
+    <color name="green">#168A50</color>
+    <color name="amber">#D97706</color>
+    <color name="bg">#F4F6F8</color>
+    <color name="text">#172B3A</color>
+    <color name="muted">#5A6B78</color>
+</resources>
